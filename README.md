@@ -13,23 +13,23 @@ There might also be perlbot bindings (the chatbot in #perl channel in freenode I
 
 To contribute to Snips:
 
-    * Read this README in its entirety,
+* Read this README in its entirety,
 
-    * Fork this repo,
+* Fork this repo,
 
-    * In your fork, create a subdirectory under src/ with the same name as your github id,
+* In your fork, create a subdirectory under src/ with the same name as your github id,
 
-    * Put each of your snips into a different file in your subdirectory,
+* Put each of your snips into a different file in your subdirectory,
 
-    * Send me a pull request, and I will look at your code and probably merge it.
+* Send me a pull request, and I will look at your code and probably merge it.
 
 Each of your code snip files must meet the following criteria:
 
-    * Must have a filename extension of .pl, .c, .py, etc appropriate to the programming language used,
+* Must have a filename extension of .pl, .c, .py, etc appropriate to the programming language used,
 
-    * Must have comments near the top of the file giving a NAME, DESCRIPTION, AUTHOR and optionally TAGS.  See "src/example.pl" or "src/example.c" for examples.
+* Must have comments near the top of the file giving a NAME, DESCRIPTION, AUTHOR and optionally TAGS.  See "src/example.pl" or "src/example.c" for examples.
 
-    * Should be understandable.  If I can't tell if your code isn't malware, I won't merge it.
+* Should be understandable.  If I can't tell if your code isn't malware, I won't merge it.
 
 The code snip NAME should be something short and relevant.
 
