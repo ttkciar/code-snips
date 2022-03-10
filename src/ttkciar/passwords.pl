@@ -29,4 +29,7 @@ my @COMMON_PASSWORDS_LIST = qw(
     123qwe
     zxcvbnm
     1q2w3e
+    azerty
+    azertyuiop
+    wxcvbn
 );
